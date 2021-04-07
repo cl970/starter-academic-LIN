@@ -1,7 +1,7 @@
 ---
 title: Lucas Lin
 role: Data Engineer
-avatar_filename: profille.jpg
+avatar_filename: profille.tiff
 bio: Deutsche Bank
 interests:
   - DataArtificial Intelligence
