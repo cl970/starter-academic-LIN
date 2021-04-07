@@ -4,9 +4,9 @@ role: Data Engineer
 avatar_filename: avatar.jpg
 bio: Deutsche Bank
 interests:
-  - DataArtificial Intelligence
-  - Computational Linguistics
-  - Informatio
+  - Data_Visulization
+  - Data_Analytics
+  - Data_Engineering
 social:
   - icon: envelope
     icon_pack: fas
