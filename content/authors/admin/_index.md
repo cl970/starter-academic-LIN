@@ -18,8 +18,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/linlucas1/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Rutgers University
+    url: https://www.rutgers.edu/
 education:
   courses:
     - course: MI in Data Analytics
