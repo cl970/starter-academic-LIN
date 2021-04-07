@@ -28,7 +28,7 @@ education:
     - course: BA
       institution: Rutgers University - New Brunswick
       year: 2018
-email: ""
+email: clin815@hotmail.com
 superuser: true
 highlight_name: false
 ---
