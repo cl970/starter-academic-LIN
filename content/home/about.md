@@ -7,4 +7,3 @@ title: ""
 active: true
 author: admin
 ---
-Lucas Lin is a Data Engineer at Deutsche Bank
